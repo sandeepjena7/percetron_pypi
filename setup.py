@@ -7,7 +7,7 @@ user_name = 'sandeepjena7'
 
 setuptools.setup(
     name=f"{project_name}-{user_name}",
-    version="0.0.3",
+    version="0.0.4",
     author=user_name,
     author_email="sandeepjena777@gmail.com",
     description="Its a implementation of percetron",
